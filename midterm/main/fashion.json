@@ -1,0 +1,22 @@
+{
+    "fashion": [
+        {
+            "title": "Adidas and Kanye Part Ways ",
+            "date": "March 11 2023",
+            "article": "Adidas and Kanye West have reportedly ended their Yeezy partnership after five years. The rapper-turned-designer is said to be exploring new opportunities in the fashion industry.",
+            "image" : "./image/kanye.jpg"
+        },
+        {
+            "title": "Sustainability",
+            "date": "March 11 2023",
+            "article": "Sustainability and inclusivity are at the forefront of the fashion industry, with many brands committing to reducing waste and increasing diversity in their collections.",
+            "image" : "./image/sustainability.jpg"
+        },
+        {
+            "title": "Red Carpet",
+            "date": "March 11 2023",
+            "article": "Celebrities made a splash at recent fashion events, donning bold and daring outfits on the red carpet. Designers also showcased unique designs, from futuristic looks to vintage-inspired styles.",
+            "image" : "./image/red-carpet.jpg"
+        }
+    ]
+}

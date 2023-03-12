@@ -1,0 +1,30 @@
+{
+    "card" : [
+        {
+            "topic" : "Travel",
+            "title" : "Visiting Niagara Falls",
+            "date" : "March 11 2023",
+            "article" : "Niagara Falls reopens to tourists after COVID-19 restrictions ease. ",
+            "link" : "./travel.html",
+            "image" : "./image/index-travel.jpg"
+        },
+
+        {
+            "topic" : "Fashion",
+            "title": "Adidas and Kanye Part Ways ",
+            "date": "March 11 2023",
+            "article": "Adidas ends Yeezy partnership after five years.",
+            "link" : "./fashion.html",
+            "image" : "./image/index-fashion.jpg"
+        },
+
+        {
+            "topic" : "Technology",
+            "title" : "Artificial Intelligence",
+            "date" : "March 11 2023",
+            "article" : "Artificial intelligence continues to make strides in various fields.",
+            "link" : "./technology.html",
+            "image" : "./image/index-technology.jpg"
+        }
+    ]
+}

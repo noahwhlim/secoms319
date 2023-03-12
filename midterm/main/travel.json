@@ -1,0 +1,24 @@
+{
+    "travel" : [
+        {
+            "title" : "Visiting Niagara Falls",
+            "date" : "March 11 2023",
+            "article" : "Niagara Falls reopens to tourists after COVID-19 restrictions ease. Visitors can enjoy the waterfall and various attractions, making it an ideal destination for a memorable experience.",
+            "image" : "./image/niagara.jpg"
+        },
+
+        {
+            "title" : "Travelling in St Louis",
+            "date" : "March 11 2023",
+            "article" : "St. Louis welcomes travelers with its iconic Gateway Arch, delicious barbecue, and rich cultural heritage. Visitors can explore the city's museums, parks, and entertainment venues for a memorable trip.",
+            "image" : "./image/st-louis.jpg"
+        },
+
+        {
+            "title" : "Visiting Chicago",
+            "date" : "March 11 2023",
+            "article" : "Travelers to Chicago can experience the Windy City's iconic architecture, world-class museums, diverse neighborhoods, and delicious cuisine. Don't miss attractions like the Magnificent Mile and Navy Pier.",
+            "image" : "./image/chicago.jpg"
+        }
+    ]
+}

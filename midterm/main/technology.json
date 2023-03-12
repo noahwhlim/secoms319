@@ -1,0 +1,24 @@
+{
+    "technology" : [
+        {
+            "title" : "Artificial Intelligence Making Waves",
+            "date" : "March 11 2023",
+            "article" : "Artificial intelligence continues to make strides in various fields, from healthcare to finance. Recent developments include AI-powered language models and facial recognition technology, sparking ethical and privacy concerns.",
+            "image" : "./image/ai.jpg"
+        },
+
+        {
+            "title" : "Tech Layoffs",
+            "date" : "March 11 2023",
+            "article" : "Several tech companies have announced layoffs in recent months, citing economic challenges and restructuring efforts. Affected employees are seeking new job opportunities in a competitive market.",
+            "image" : "./image/twitter.png"
+        },
+
+        {
+            "title" : "Bitcoin At All Time High",
+            "date" : "March 11 2023",
+            "article" : "Crypto has been making headlines as Bitcoin reached new all-time highs and more companies announced plans to invest in cryptocurrencies. However, regulatory challenges and environmental concerns remain.",
+            "image" : "./image/btc.jpg"
+        }
+    ]
+}
