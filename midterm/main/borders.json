@@ -1,0 +1,28 @@
+{
+    "borders": [
+        {
+            "title": "Information regarding all Borders",
+            "date": "March 11 2023",
+            "article": "Check the current entry requirements: Before you plan your trip, check the entry requirements for Canada. The requirements vary depending on your citizenship, the purpose of your visit, and your mode of transportation. You can check the countries government's official website for the latest entry requirements.",
+            "image": "./image/all-border.jpg"  
+        },
+        {
+            "title": "Entering Canadian Borders",
+            "date": "March 11 2023",
+            "article": "To enter Canada, you'll need a valid travel document such as a passport, a visa, or an Electronic Travel Authorization (eTA). Make sure to check if you need any of these documents and apply for them in advance if necessary.",
+            "image": "./image/canada-border.jpg"
+        },
+        {
+            "title": "Entering Mexican Borders",
+            "date": "March 11 2023",
+            "article": "Before heading to Mexico, make sure you have a valid passport. Depending on your nationality, you may also need a visa or a tourist card (FMM) to enter Mexico. You can check the entry requirements on the website of the Mexican embassy or consulate in your country.",
+            "image": "./image/mexico-border.jpg"
+        },
+        {
+            "title": "US Re-entry from Borders",
+            "date": "March 11 2023",
+            "article": "When you arrive at the US border, you'll need to present a valid passport or other approved travel document, such as a passport card or enhanced driver's license. If you're a legal resident, you'll need to present your green card or other documentation proving your status. Make sure your documents are up-to-date and in good condition.",
+            "image": "./image/us-border.jpg"
+        }
+    ]
+}
